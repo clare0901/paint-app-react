@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paint-app-react/static/css/main.7983914b.chunk.css",
+    "main.js": "/paint-app-react/static/js/main.9e5207d2.chunk.js",
+    "main.js.map": "/paint-app-react/static/js/main.9e5207d2.chunk.js.map",
+    "runtime-main.js": "/paint-app-react/static/js/runtime-main.42305657.js",
+    "runtime-main.js.map": "/paint-app-react/static/js/runtime-main.42305657.js.map",
+    "static/js/2.74c9445d.chunk.js": "/paint-app-react/static/js/2.74c9445d.chunk.js",
+    "static/js/2.74c9445d.chunk.js.map": "/paint-app-react/static/js/2.74c9445d.chunk.js.map",
+    "static/js/3.5dd549c8.chunk.js": "/paint-app-react/static/js/3.5dd549c8.chunk.js",
+    "static/js/3.5dd549c8.chunk.js.map": "/paint-app-react/static/js/3.5dd549c8.chunk.js.map",
+    "index.html": "/paint-app-react/index.html",
+    "static/css/main.7983914b.chunk.css.map": "/paint-app-react/static/css/main.7983914b.chunk.css.map",
+    "static/js/2.74c9445d.chunk.js.LICENSE.txt": "/paint-app-react/static/js/2.74c9445d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42305657.js",
+    "static/js/2.74c9445d.chunk.js",
+    "static/css/main.7983914b.chunk.css",
+    "static/js/main.9e5207d2.chunk.js"
+  ]
+}
